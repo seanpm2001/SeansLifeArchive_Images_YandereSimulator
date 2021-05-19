@@ -1,13 +1,13 @@
 
 ***
 
-# <projectName>
+# Yandere Simulator
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/Yandere_Simulator_logo.png)
 
 # By:
 
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
+[Yandere Dev](https://yanderedev.wordpress.com/)
 
 ### Top
 
@@ -27,13 +27,13 @@ Translations in languages other than English are machine translated and are not 
 
 [00.0 - Top](#Top)
 
-> [00.1 - Title](#<projectName>)
+> [00.1 - Title](#Yandere-Simulator)
 
 > [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
 
 > [00.3 - Index](#Index)
 
-[01.0 - Description](#RepositoryName)
+[01.0 - Description](#SeansLifeArchive_Images_YandereSimulator)
 
 [02.0 - About](#About)
 
@@ -71,20 +71,20 @@ Translations in languages other than English are machine translated and are not 
 
 ***
 
-# <repoName>
-<repo_description>
+# SeansLifeArchive_Images_YandereSimulator
+The module for my life story project that contains my general Yandere Simulator images. 
 
 ***
 
 ## About
 
-See above. <extendedRepoDescription>
+See above. This repository hosts my Yandere Simulator images, which can be used for whatever purpose needed. These are stock images.
 
 ***
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/SeansLifeArchive_Images_YandereSimulator/wiki)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
@@ -130,7 +130,7 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is not allowed for others, as this is a personal project.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 19 commits (As of Tuesday, May 18th at 6:23 pm)
 
 > * 2. No other contributers.
 
@@ -200,7 +200,7 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
+[Project language file](PROJECT_LANG.raku)
 
 [Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
 
@@ -220,15 +220,15 @@ Contributing is not allowed for this project, as this is a personal project.
 
 File type: `Markdown (*.md)`
 
-File version: `0.1 (Sunday, March 21st 2021 at 8:01 pm)`
+File version: `1 (Tuesday, May 18th 2021 at 6:23 pm)`
 
-Line count: `0,296`
+Line count: `0,288`
 
 ***
 
 ## README version history
 
-Version 0.1 (Sunday, March 21st 2021 at 8:01 pm)
+Version 1 (Tuesday, May 18th 2021 at 6:23 pm)
 
 > Changes:
 
@@ -265,14 +265,6 @@ Version 0.1 (Sunday, March 21st 2021 at 8:01 pm)
 > * Added a software status section, with a DRM free sticker and message
 
 > * Added the sponsor info section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
 
 > * No other changes in version 1
 
